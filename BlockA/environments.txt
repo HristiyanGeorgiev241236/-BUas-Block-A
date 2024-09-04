@@ -1,0 +1,4 @@
+C:\Users\iskot\anaconda3
+C:\Users\iskot\anaconda3\envs\block_a
+c:\Users\iskot\.conda\.conda
+c:\Users\iskot\OneDrive\Documents\GitHub\Screenshots_prove\.conda
